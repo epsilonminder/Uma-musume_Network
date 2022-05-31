@@ -1,0 +1,110 @@
+name:ヤエノムテキ
+f:[[ヤマニンスキー]]&lt;br /&gt;1975
+m:ツルミスター&lt;br /&gt;1980 鹿毛
+ff:[[ニジンスキー (競走馬)|Nijinsky II]]&lt;br /&gt;1967 鹿毛
+fm:* アンメンショナブル&lt;br /&gt;Unmentionable&lt;br /&gt;1970 鹿毛
+mf:* [[イエローゴッド]]&lt;br /&gt;Yellow God&lt;br /&gt;1967 栗毛
+mm:フジコウ&lt;br /&gt;1964 黒鹿
+name:ニシノフラワー
+f:Majestic Light&lt;br /&gt;1973
+m:*デュプリシト&lt;br /&gt;Duplicit&lt;br /&gt;1985 鹿毛
+ff:[[マジェスティックプリンス|Majestic Prince]]&lt;br /&gt;1966 栗毛
+fm:Irradiate&lt;br /&gt;1966 芦毛
+mf:[[ダンジグ (競走馬)|Danzig]]&lt;br /&gt;1977 鹿毛
+mm:Fabulous Fraud&lt;br /&gt;1974 鹿毛
+name:サクラチヨノオー
+name:ナカヤマフェスタ
+f:[[ステイゴールド]]&lt;br /&gt;[[1994年|1994]]
+fm:[[ゴールデンサッシュ]]&lt;br /&gt;[[1988年|1988]] [[栗毛]]
+m:ディアウィンク&lt;br /&gt;1998 鹿毛
+mf:*[[タイトスポット]]&lt;br
+mm:セイレイ&lt;br /&gt;1991 鹿毛
+name:キタサンブラック
+name:ゴールドシチー
+f:*ヴァイスリーガル&lt;br /&gt;Viceregal 1966&lt;br /&gt;[[栗毛]]
+m:イタリアンシチー 1979&lt;br /&gt;[[鹿毛]] 日本
+ff:[[ノーザンダンサー|Northern Dancer]] 1961&lt;br /&gt;鹿毛 カナダ
+fm:Victoria Regina 1958&lt;br /&gt;栗毛 カナダ
+mf:*[[テスコボーイ]]&lt;br /&gt;Tesco Boy 1963&lt;br /&gt;[[黒鹿毛]] [[イギリス]]
+mm:リンネス 1972&lt;br /&gt;鹿毛 日本
+name:シリウスシンボリ
+name:ゼンノロブロイ
+f:*[[サンデーサイレンス]]&lt;br /&gt;Sunday Silence&lt;br /&gt;1986
+m:*ローミンレイチェル&lt;br /&gt;Roamin Rachel&lt;br /&gt;1990 鹿毛
+ff:[[ヘイロー (競走馬)|Halo]]&lt;br /&gt;1969 黒鹿毛
+fm:[[ウィッシングウェル|Wishing Well]]&lt;br /&gt;1975 鹿毛
+mf:*マイニング&lt;br /&gt;Mining&lt;br /&gt;1984 栗毛
+mm:One Smart Lady&lt;br /&gt;1984 鹿毛
+name:ダイタクヘリオス
+f:[[ビゼンニシキ]]&lt;br /&gt;1981
+m:ネヴアーイチバン&lt;br /&gt;1971 黒鹿毛
+ff:* [[ダンディルート]]&lt;br /&gt;Dandy Lute&lt;br /&gt;1972 鹿毛
+fm:ベニバナビゼン&lt;br/&gt;1975 栗毛
+mf:* [[ネヴァービート]]&lt;br /&gt;Never Beat&lt;br /&gt;1960 栃栗毛
+mm:[[ミスナンバイチバン]]&lt;br /&gt;1959 黒鹿毛
+name:ミスターシービー
+f:[[トウショウボーイ]]&lt;br /&gt;1973
+m:[[シービークイン]]&lt;br /&gt;1973 鹿毛
+ff:*[[テスコボーイ]]&lt;br /&gt;Tesco Boy&lt;br /&gt;1963 黒鹿毛
+fm:*[[ソシアルバターフライ]]&lt;br /&gt;Social Butterfly&lt;br /&gt;1957 鹿毛
+mf:*トピオ&lt;br /&gt;Topyo&lt;br /&gt;1964 黒鹿毛
+mm:メイドウ&lt;br /&gt;1965 鹿毛
+name:メイショウドトウ
+f:Bigstone&lt;br /&gt;1990
+m:*プリンセスリーマ&lt;br /&gt;Princess Reema&lt;br /&gt;1984 栗毛
+ff:*[[ラストタイクーン (競走馬)|ラストタイクーン]]&lt;br /&gt;Last Tycoon&lt;br /&gt;1983 鹿毛
+fm:Batave&lt;br /&gt;1982 栗毛
+mf:[[アファームド|Affirmed]]&lt;br /&gt;1975 栗毛
+mm:First Fling&lt;br /&gt;1977 黒鹿毛
+name:メジロアルダン
+name:メジロパーマー
+f:[[メジロイーグル]]&lt;br /&gt;1975
+m:メジロファンタジー&lt;br /&gt;1981 黒鹿毛
+ff:[[メジロサンマン]]&lt;br /&gt;1963 鹿毛
+fm:*[[アマゾンウォリアー]]&lt;br /&gt;Amazon Warrior&lt;br /&gt;1960 鹿毛
+mf:*[[ゲイメセン]]&lt;br /&gt;Gay Mecene&lt;br /&gt;1975 黒鹿毛
+mm:*プリンセスリファード&lt;br /&gt;Princess Lyphard&lt;br /&gt;1975 鹿毛
+name:スイープトウショウ
+f:*[[エンドスウィープ]]&lt;br /&gt;End Sweep 1991&lt;br /&gt;[[鹿毛]]
+m:タバサトウショウ 1993&lt;br /&gt;鹿毛 [[北海道]][[静内町]]
+ff:*[[フォーティナイナー]]&lt;br /&gt;Forty Niner 1985&lt;br /&gt;[[栗毛]] アメリカ
+fm:Broom Dance 1979 &lt;br /&gt;鹿毛 アメリカ
+mf:*[[ダンシングブレーヴ]]&lt;br /&gt;Dancing Brave 1983&lt;br /&gt;鹿毛 アメリカ
+mm:サマンサトウショウ 1985&lt;br /&gt;[[黒鹿毛]] 北海道静内町
+name:バンブーメモリー
+name:ビコーペガサス (Biko Pegasus)
+f:[[ダンジグ (競走馬)|Danzig]]&lt;br /&gt;1977
+m:Condessa&lt;br /&gt;1978 栗毛
+ff:[[ノーザンダンサー|Northern Dancer]]&lt;br /&gt;1961 鹿毛
+fm:Pas De Nom&lt;br /&gt;1968 黒鹿毛
+mf:Condorcet&lt;br /&gt;1972 鹿毛
+mm:Varinessa&lt;br /&gt;1970 鹿毛
+name:メジロドーベル
+f:[[メジロライアン]]&lt;br /&gt;1987 鹿毛
+m:メジロビューティー&lt;br /&gt;1982 鹿毛 日本
+ff:[[アンバーシャダイ]]&lt;br /&gt;1977 鹿毛 日本
+fm:メジロチェイサー&lt;br/&gt;1977 鹿毛 日本
+mf:*[[パーソロン]]&lt;br /&gt;Partholon&lt;br/&gt;1960 鹿毛 アイルランド
+mm:メジロナガサキ&lt;br/&gt;1971 栗毛 日本
+name:サトノダイヤモンド
+f:[[ディープインパクト (競走馬)|ディープインパクト]]&lt;br /&gt;2002
+ff:*[[サンデーサイレンス]]&lt;br /&gt;Sunday Silence&lt;br /&gt;1986 青鹿毛
+fm:*[[ウインドインハーヘア]]&lt;br /&gt;Wind in Her Hair&lt;br /&gt;1991 鹿毛
+m:*[[マルペンサ]]&lt;br /&gt;Malpensa&lt;br /&gt;2006 鹿毛
+mf:Orpen&lt;br /&gt;1996
+mm:Marsella&lt;br /&gt;1997
+name:トーセンジョーダン
+name:マーベラスサンデー
+f:*[[サンデーサイレンス]]&lt;br /&gt;Sunday Silence&lt;br /&gt;1986
+m:モミジダンサー&lt;br /&gt;1980 栗毛
+ff:[[ヘイロー (競走馬)|Halo]]&lt;br /&gt;1969 黒鹿毛
+fm:[[ウィッシングウェル|Wishing Well]]&lt;br /&gt;1975 鹿毛
+mf:*ヴァイスリーガル&lt;br /&gt;Viceregal&lt;br /&gt;1966 栗毛
+mm:*モミジ&lt;br /&gt;Momigi&lt;br /&gt;1972 栗毛
+name:シーキングザパール
+f:[[シーキングザゴールド|Seeking the Gold]]&lt;br /&gt;1985
+m:*ページプルーフ&lt;br /&gt;Page Proof&lt;br /&gt;1988 黒鹿毛
+ff:[[ミスタープロスペクター|Mr. Prospector]]&lt;br /&gt;1970 鹿毛
+fm:Con Game&lt;br /&gt;1974 黒鹿毛
+mf:[[シアトルスルー|Seattle Slew]]&lt;br /&gt;1974 黒鹿毛
+mm:*バーブスボールド&lt;br /&gt;Barb's Bold&lt;br /&gt;1978 黒鹿毛
